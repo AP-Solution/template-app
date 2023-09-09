@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.efd8bd38.js",
-    "static/js/787.370c659c.chunk.js": "/react-gh-pages/static/js/787.370c659c.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.efd8bd38.js.map": "/react-gh-pages/static/js/main.efd8bd38.js.map",
-    "787.370c659c.chunk.js.map": "/react-gh-pages/static/js/787.370c659c.chunk.js.map"
+    "main.css": "/template-app/static/css/main.073c9b0a.css",
+    "main.js": "/template-app/static/js/main.fd78c4d8.js",
+    "static/js/787.370c659c.chunk.js": "/template-app/static/js/787.370c659c.chunk.js",
+    "static/media/logo.svg": "/template-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/template-app/index.html",
+    "main.073c9b0a.css.map": "/template-app/static/css/main.073c9b0a.css.map",
+    "main.fd78c4d8.js.map": "/template-app/static/js/main.fd78c4d8.js.map",
+    "787.370c659c.chunk.js.map": "/template-app/static/js/787.370c659c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.efd8bd38.js"
+    "static/js/main.fd78c4d8.js"
   ]
 }
